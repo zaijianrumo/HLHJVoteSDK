@@ -1,0 +1,6 @@
+framework module HLHJVoteSDK {
+  umbrella header "HLHJVoteSDK.h"
+
+  export *
+  module * { export * }
+}
