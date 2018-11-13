@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "HLHJBaseController.h"
 /**
  投票活动列表
  */
