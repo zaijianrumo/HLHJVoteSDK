@@ -4,7 +4,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HLHJVoteSDK"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
 
   s.summary      = "投票投票投票投票"
   s.description  = <<-DESC
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/zaijianrumo/HLHJVoteSDK"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "zaijianrumo" => "2245190733@qq.com" }
-  s.source       = { :git => "https://github.com/zaijianrumo/HLHJVoteSDK.git", :tag => "1.0.3"  }
+  s.source       = { :git => "https://github.com/zaijianrumo/HLHJVoteSDK.git", :tag => "1.0.4"  }
 
   s.xcconfig = {'VALID_ARCHS' => 'arm64 x86_64'}
 
